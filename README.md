@@ -1,5 +1,8 @@
 # Spring Boot REST API Using JPA, Hibernate, MySQL Tutorial
 
+<a href="https://javatodev.com/spring-boot-mysql/" target="blank">
+    <img align="center" src="https://javatodev.com/wp-content/uploads/2020/10/Spring-Boot-REST-API-Using-JPA-Hibernate-MySQL-Tutorial-800x450.png" alt="Spring Boot REST API Using JPA, Hibernate, MySQL Tutorial"/></a>
+
 <p align="left">
 In this article, I’m going to explain how we can build a REST API using JPA, Hibernate, and MySQL in Spring Boot.
 
@@ -46,8 +49,10 @@ Related Articles
  - [Spring Boot REST API Using JPA, Hibernate, MySQL Tutorial](https://javatodev.com/spring-boot-mysql/)
  - [Database Migration Using Flyway in Spring Boot](https://javatodev.com/flyway-spring-boot/)
 
-<h1 align="center">Hi 👋, I'm Chinthaka Dinadasa</h1>
-<h3 align="center">A Passionate Java Fullstack Developer from Sri Lanka and Author of JavatoDev.com</h3>
+<h2>Author Profile</h2>
+
+<h3 align="center">Hi 👋, I'm Chinthaka Dinadasa</h3>
+<h5 align="center">A Passionate Java Fullstack Developer from Sri Lanka and Author of JavatoDev.com</h5>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javatodev" alt="javatodev" /></a> </p> -->
 
